@@ -35,9 +35,8 @@ vmlinux
 System.map
 Module.markers
 Module.symvers
-!.gitignore
+.gitignore
 !.mailmap
-
 #
 # Generated include files
 #
@@ -64,3 +63,7 @@ ncscope.*
 *.orig
 *~
 \#*#
+
+
+#source insight proj files
+*.si4project/*
